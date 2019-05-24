@@ -6,7 +6,7 @@
 
 
 .jumbotron {
-    height: 100%;
+    height: auto;
     background-image: linear-gradient(rgba(0, 0, 0, 0.700) ,rgba(0, 0, 0, 0.700)),url(https://images.pexels.com/photos/2246476/pexels-photo-2246476.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
     background-size: cover;
     background-attachment: fixed;

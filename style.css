@@ -42,14 +42,14 @@
 
 .btn-outline-primary {
     margin-top: 20px;
-    border: solid 2px rgb(0, 184, 255);
+    border: solid 20px rgb(0, 184, 255);
     color: rgb(0, 184, 255);
     
 }
 
 .btn-outline-primary:hover,
 .btn-outline-primary:active{
-    border: solid 2px rgb(0, 184, 255);
+    border: solid 20px rgb(0, 184, 255);
     color: #fff;
     background-color: rgb(0, 184, 255);
     
